@@ -1,4 +1,4 @@
-# Built a Frontend Project using REST APIs And React - Gallery 
+# Builted a Frontend Project using REST APIs And React - Gallery Book 📒
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
